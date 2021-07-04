@@ -1,4 +1,4 @@
-# lab13_pagination
+# lab14_pagination
 
 Rangga Tito Prayogo - 311910036 - Lab 13 Pagination
 
